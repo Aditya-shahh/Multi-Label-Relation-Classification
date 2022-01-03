@@ -1,4 +1,4 @@
-# Multi-Label Relation-Extraction
+# Multi-Label Relation Classification
 ### AdaElectra — Adaptive pooling based approach with Electra model for Multi Label Relation Classification
 
 In this project, I present an <i>Adaptive pooling based method on top of Electra model — AdaElectra </i> in order to classify relations. The proposed model — AdaElectra achieves F1 score of <b>0.88 </b> on the NYT29 dataset
